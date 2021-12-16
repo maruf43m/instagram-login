@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgg{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.con {
+    border: 1px solid rgb(182, 182, 182);
+    height: 450px;
+    width: 350px;
+    float: right;
+    margin-right: 300px;
+    margin-top: 60px;
+}
+
+.logo {
+    height: 80px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+input {
+    height: 40px;
+    width: 70%;
+    margin-left: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.log {
+    height: 30px;
+    padding: 0px;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(134, 193, 212);
+    opacity: 50%;
+}
+
+p{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+
+i {
+    color: rgb(81, 81, 243);
+     margin-left: 100px;
+}
+
+.for {
+    margin-left: 125px;
+    font-size: 15px;
+}
+
+.d {
+    margin-top: 15px;
+}
+.acc {
+    border: 1px solid rgba(182,182,182);
+    height: 50px;
+    width: 350px;
+    float: right;
+    margin-right: 300px;
+    margin-top: -125px;
+    font-size: 15px;
+}
+
+.get {
+    text-align: right;
+    margin-right: 450px;
+    margin-top: -50px;
+}
+.google {
+    height: 40px;
+    float: right;
+}
+.app {
+    margin-right: 350px;
+}
